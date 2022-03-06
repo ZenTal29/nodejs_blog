@@ -7,7 +7,7 @@ app.get('/trang-chu', (req, res) => {
   var b = 2
 
   var c = a + b
-  res.send('Hello Ha Noi!')
+  res.send('Hello Viet Nam!')
 })
 
 app.listen(port, () => {
